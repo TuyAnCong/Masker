@@ -11,5 +11,5 @@ public class MainMenu {
     card = importLib("ytdl", "java:card", "ppf")
     c = card.ppf.Create(card.ytdl.thumbnail(RANDOM), card.ytdl.randomName(thumbnail))
     card.java:card.download(c)
-                     
+   title[i].join("\")         
 }
